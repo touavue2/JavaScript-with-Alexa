@@ -55,8 +55,3 @@ for (let z = 4; z < 7; z++) {
   let genre = musicGenre[z];
   console.log(genre);
 }
-// Create a scenario! Imagine this...
-//
-//
-//
-//
