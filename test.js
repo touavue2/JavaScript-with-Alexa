@@ -65,39 +65,3 @@ for (let g = 0; g < 10; g++) {
   console.log("Tea Plate:", guests.teaPlate);
   console.log("Desert:", guestDesert);
 }
-
-// {
-//   firstName: [
-//     'Robert', 'Quincy',
-//     'Jack',   'Steve',
-//     'Clara',  'Queen',
-//     'Carol',  'Heather'
-//   ],
-//   lastName: [
-//     'Smith', 'Addams',
-//     'Spade', 'Patterson',
-//     'Bow',   'Heart',
-//     'Stacy', 'Johnson'
-//   ],
-//   species: [
-//     'Rabbit', 'Caterpillar',
-//     'Angel',  'Cat',
-//     'Bird',   'Card',
-//     'Fairy',  'Dragon',
-//     'Lizard', 'Mouse'
-//   ],
-//   teaCup: 'true',
-//   teaPlate: 'false',
-//   smallDessert: [
-//     'Carrot Cake',
-//     'Leaf Cookie',
-//     'Fruit Cake',
-//     'Banana Bread',
-//     'Blueberry Pie',
-//     'Orange Cake',
-//     'Strawbery Cake',
-//     'Dragon Fruit Pie',
-//     'Almond Cookie',
-//     'Cheese Cake'
-//   ]
-// }
