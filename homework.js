@@ -57,7 +57,9 @@ for (let g = 0; g < 10; g++) {
   let guestSpecies = guests.species[g];
   let guestDesert = guests.smallDessert[g];
 
+  console.log("");
   console.log(g);
+  console.log("");
   console.log("First Name:", guestFNames);
   console.log("Last Name:", guestLNames);
   console.log("Species:", guestSpecies);
