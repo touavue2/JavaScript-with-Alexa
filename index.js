@@ -18,7 +18,7 @@ obj1.petName = "BonBon";
 
 console.log(obj1);
 console.log(obj1.petName);
-arr1.push(4);
+// arr1.push(4);
 
 console.log(arr1);
 
